@@ -12,11 +12,18 @@
 
 
 
-- 👋 Hi, I’m @rizkiwibu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My Profile
+-------------------------------
+Username: Rizki Irfan
+WhoamI: npc Normal People.
+Instagram: @ikykun
+FavouriteAnime: Tonikaku_Kawaii
+Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Location: jawa
+FavouriteSong: fly me to the moon.
+Hobbies: Watching anime, Read Manga 
+while I am listening music.
+
 
 <!---
 rizkiwibu/rizkiwibu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
